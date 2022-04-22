@@ -1,3 +1,4 @@
+// Wap to sum of 2 numbers
 class Addition
   // main class
   {
