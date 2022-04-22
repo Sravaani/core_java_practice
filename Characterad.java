@@ -7,7 +7,7 @@ import java.util.Scanner;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any caracter : ");
         char ch = scanner.next().charAt(0);
-        if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch           <= 'Z')) 
+        if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch<= 'Z')) 
         {
              System.out.println(ch + " is a ALPHABET.");
 
