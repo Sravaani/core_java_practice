@@ -1,3 +1,4 @@
+// Wap to sum, product, substract of 3 numbers
 class Add3 {
  // main class
 public static void main(String[] args)
